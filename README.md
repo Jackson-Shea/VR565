@@ -53,9 +53,8 @@ Screenshots and/or demo videos can be found in the `/media` directory (if includ
 - Enhanced analytics and progress visualization
 - Accessibility improvements for a wider range of users
 
-## Author
-**Jackson Shea**  
-Computer Science Graduate  
+## Authors
+**Jackson Shea & Jesse Munton**  
+Computer Science Graduates  
 Product-focused VR & UX Projects  
-GitHub: https://github.com/Jackson-Shea  
-LinkedIn: https://linkedin.com/in/jackson-shea-3aa5791b0
+
